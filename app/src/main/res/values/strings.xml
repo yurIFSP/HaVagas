@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HaVagas</string>
+    <string name="lbl_full_name">Nome Completo</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_opt_in_email_updates">Deseja receber e-mails com atualizações de oportunidades ?</string>
+    <string name="lbl_phone">Telefone</string>
+    <string name="lbl_add_mobile_phone">Adicionar celular</string>
+    <string name="lbl_mobile_phone">Celular</string>
+    <string name="lbl_sex_m">Masculino</string>
+    <string name="lbl_sex_f">Feminino</string>
+    <string name="lbl_dob">Data de Nascimento</string>
+    <string name="lbl_interests">SEI LA</string>
+    <string name="btn_save">Salvar</string>
+    <string name="btn_clear">Limpar</string>
+    <string name="lbl_phone_type">Tipo de telefone</string>
+    <string name="lbl_sex">Sexo</string>
+    <string name="lbl_birthdate">Data de nascimento</string>
+    <string name="lbl_education_level">Nível de educação</string>
+    <string name="lbl_graduation_year">Ano de formatura</string>
+    <string name="lbl_institution">Instituição</string>
+    <string name="lbl_interest">Interesses</string>
+    <string name="lbl_thesis_title">Título da monografia</string>
+    <string name="lbl_advisor">Orientador</string>
+    <string name="btn_reset">Limpar</string>
+</resources>
